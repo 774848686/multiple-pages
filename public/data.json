@@ -1,0 +1,71 @@
+{
+    "data":[{
+        "id": 1,
+        "money": 20,
+        "name": "618福利红包",
+        "keywords": "话费",
+        "logo": "https://cash.adshadow.cn/card/json/images/dx.png",
+        "text": "该奖品由中国电信提供",
+        "title": "电信卡",
+        "link": "https://h5.phone-card.cn/8/181/index.html?channelId=181"
+      },
+      {
+        "id": 2,
+        "money": 30,
+        "name": "618福利红包",
+        "keywords": "话费",
+        "title": "乐花卡",
+        "logo": "https://cash.adshadow.cn/card/json/images/le.png",
+        "text": "该奖品由乐花卡提供",
+        "link": "https://lepaysale.fenqile.com/entry/merchant/index/index.html?merchId=QDC202004200087047&agent=1156553&entry=wb.on.QDC202004200087047wQCG&_OSC=QDC202004200087047_1604997035555_6"
+      },
+      {
+        "id": 3,
+        "money": 5,
+        "name": "618福利红包",
+        "keywords": "现金红包",
+        "title": "淘特红包",
+        "logo": "https://cash.adshadow.cn/card/json/images/tt.png",
+        "text": "该奖品由淘宝特价版提供",
+        "link": "https://pages.tmall.com/wow/z/sale/new/taoke-jhy?channel=mmlm_jiheye&pid=mm_574430161_891150270_109441250084&relationId=xxx"
+      },
+      {
+        "id": 4,
+        "money": 8,
+        "name": "618福利红包",
+        "keywords": "话费充值券",
+        "title": "京东金融",
+        "logo": "https://cash.adshadow.cn/card/json/images/jdjr.png",
+        "text": "该奖品由京东金融提供",
+        "link": "https://uf.jr.jd.com/up/phone2/phone2.html?actCode=E68CAE194C&cpachflag=fvlTYCW4"
+      }, {
+        "id": 5,
+        "money": 5,
+        "name": "618福利红包",
+        "keywords": "现金红包",
+        "title": "联通卡",
+        "logo": "https://cash.adshadow.cn/card/json/images/lt.png",
+        "text": "该奖品由联通提供",
+        "link": "http://cash.adshadow.cn/hk/index.html#/card01?pcode=xd-1008"
+      }, {
+        "id": 6,
+        "money": 20,
+        "name": "618福利红包",
+        "keywords": "话费",
+        "title": "黑牛保险",
+        "logo": "https://cash.adshadow.cn/card/json/images/hn.png",
+        "text": "该奖品由黑牛保险提供",
+        "link": "https://www.heiniubao.com/welfare/hangzxd_hf1"
+      }, {
+        "id": 7,
+        "money": 0,
+        "name": "618福利",
+        "keywords": "免单",
+        "title": "茅台酒",
+        "f":"免费领取茅台酱香酒",
+        "logo": "",
+        "text": "该奖品由茅台酱香酒提供",
+        "link": "http://is2m.maotaijiuh.cn/"
+      }
+    ]
+}
